@@ -1,67 +1,154 @@
-#EXTM3U
-#EXTINF:-1,DE:ZDF
-http://195.154.134.236:9000/live/alaa1/alaa1/8370.ts
-#EXTINF:-1,DE:AXN
-http://195.154.134.236:9000/live/alaa1/alaa1/3707.ts
-#EXTINF:-1,DE:SAT_1
-http://195.154.134.236:9000/live/alaa1/alaa1/8788.ts
-#EXTINF:-1,DE:Sky-Action
-http://195.154.134.236:9000/live/alaa1/alaa1/8793.ts
-#EXTINF:-1,DE:Sky-Atlantic
-http://195.154.134.236:9000/live/alaa1/alaa1/8789.ts
-#EXTINF:-1,DE:SKY-CINEMA_24
-http://195.154.134.236:9000/live/alaa1/alaa1/9288.ts
-#EXTINF:-1,DE:Sky-Krimi
-http://195.154.134.236:9000/live/alaa1/alaa1/8787.ts
-#EXTINF:-1,DE:RTL-5
-http://195.154.134.236:9000/live/alaa1/alaa1/5472.ts
-#EXTINF:-1,DE:RTL-Nitro
-http://195.154.134.236:9000/live/alaa1/alaa1/5474.ts
-#EXTINF:-1,DE:RTL.Nitro
-http://195.154.134.236:9000/live/alaa1/alaa1/9750.ts
-#EXTINF:-1,DE:RTL.Passion
-http://195.154.134.236:9000/live/alaa1/alaa1/9749.ts
-#EXTINF:-1,DE:RTL2.HD
-http://195.154.134.236:9000/live/alaa1/alaa1/9748.ts
-#EXTINF:-1,DE:RTL_CRIME
-http://195.154.134.236:9000/live/alaa1/alaa1/9753.ts
-#EXTINF:-1,DE:RTL_HD
-http://195.154.134.236:9000/live/alaa1/alaa1/9754.ts
-#EXTINF:-1,DE:Sky_Sport_Digital
-http://195.154.134.236:9000/live/alaa1/alaa1/4623.ts
-#EXTINF:-1,DE:Disney_Channel
-http://195.154.134.236:9000/live/alaa1/alaa1/9751.ts
-#EXTINF:-1,DE:FOX
-http://195.154.134.236:9000/live/alaa1/alaa1/5483.ts
-#EXTINF:-1,DE:Sky_Atlantic
-http://195.154.134.236:9000/live/alaa1/alaa1/9291.ts
-#EXTINF:-1,DE:Disney_Cinemagic
-http://195.154.134.236:9000/live/alaa1/alaa1/4142.ts
-#EXTINF:-1,DE:Disney_Junior
-http://195.154.134.236:9000/live/alaa1/alaa1/9752.ts
-#EXTINF:-1,DE:KIKA
-http://195.154.134.236:9000/live/alaa1/alaa1/8812.ts
-#EXTINF:-1,DE:7MAXX
-http://195.154.134.236:9000/live/alaa1/alaa1/8801.ts
-#EXTINF:-1,DE:NPO-1-(NL)
-http://195.154.134.236:9000/live/alaa1/alaa1/5468.ts
-#EXTINF:-1,DE:Syfy-HD
-http://195.154.134.236:9000/live/alaa1/alaa1/8802.ts
-#EXTINF:-1,DE:Sky-Hits
-http://195.154.134.236:9000/live/alaa1/alaa1/8790.ts
-#EXTINF:-1,DE:TLC
-http://195.154.134.236:9000/live/alaa1/alaa1/8811.ts
-#EXTINF:-1,DE:TNT
-http://195.154.134.236:9000/live/alaa1/alaa1/8359.ts
-#EXTINF:-1,DE:Sky_Sport_Austria
-http://195.154.134.236:9000/live/alaa1/alaa1/5477.ts
-#EXTINF:-1,DE:EUROSPORT_1
-http://195.154.134.236:9000/live/alaa1/alaa1/9296.ts
-#EXTINF:-1,DE:Zee_One
-http://195.154.134.236:9000/live/alaa1/alaa1/5499.ts
-#EXTINF:-1,DE:VOX
-http://195.154.134.236:9000/live/alaa1/alaa1/8808.ts
-#EXTINF:-1,DE:SkySport_News
-http://195.154.134.236:9000/live/alaa1/alaa1/9294.ts
-#EXTINF:-1,DE:PRO-7-MAXX
-http://195.154.134.236:9000/live/alaa1/alaa1/8813.ts
+#EXTINF:-1,GR: 4E
+http://54.37.188.76:80/live/new4tec/new4tec/61965.ts
+#EXTINF:-1,GR: 4E Star
+http://54.37.188.76:80/live/new4tec/new4tec/61964.ts
+#EXTINF:-1,GR: AB Channel
+http://54.37.188.76:80/live/new4tec/new4tec/61963.ts
+#EXTINF:-1,GR: ACTION 24
+http://54.37.188.76:80/live/new4tec/new4tec/61962.ts
+#EXTINF:-1,GR: AIGAIO TV
+http://54.37.188.76:80/live/new4tec/new4tec/61961.ts
+#EXTINF:-1,GR: Alpha
+http://54.37.188.76:80/live/new4tec/new4tec/61960.ts
+#EXTINF:-1,GR: ANT1
+http://54.37.188.76:80/live/new4tec/new4tec/61959.ts
+#EXTINF:-1,GR: Ant1 Cyprus
+http://54.37.188.76:80/live/new4tec/new4tec/61958.ts
+#EXTINF:-1,GR: Ant1 HD
+http://54.37.188.76:80/live/new4tec/new4tec/61957.ts
+#EXTINF:-1,GR: Apeiro TV
+http://54.37.188.76:80/live/new4tec/new4tec/61956.ts
+#EXTINF:-1,GR: APT
+http://54.37.188.76:80/live/new4tec/new4tec/61955.ts
+#EXTINF:-1,GR: Art
+http://54.37.188.76:80/live/new4tec/new4tec/61954.ts
+#EXTINF:-1,GR: Astra
+http://54.37.188.76:80/live/new4tec/new4tec/61953.ts
+#EXTINF:-1,GR: Axeloos TV
+http://54.37.188.76:80/live/new4tec/new4tec/61952.ts
+#EXTINF:-1,GR: BLUE SKY
+http://54.37.188.76:80/live/new4tec/new4tec/61951.ts
+#EXTINF:-1,GR: Boyah
+http://54.37.188.76:80/live/new4tec/new4tec/61950.ts
+#EXTINF:-1,GR: Channel 9
+http://54.37.188.76:80/live/new4tec/new4tec/61949.ts
+#EXTINF:-1,GR: DIAVATA TV
+http://54.37.188.76:80/live/new4tec/new4tec/61948.ts
+#EXTINF:-1,GR: DIKTYO
+http://54.37.188.76:80/live/new4tec/new4tec/61947.ts
+#EXTINF:-1,GR: E
+http://54.37.188.76:80/live/new4tec/new4tec/61946.ts
+#EXTINF:-1,GR: Ellinikosfm TV
+http://54.37.188.76:80/live/new4tec/new4tec/61945.ts
+#EXTINF:-1,GR: EPIRUS TV1
+http://54.37.188.76:80/live/new4tec/new4tec/61944.ts
+#EXTINF:-1,GR: Ept 1
+http://54.37.188.76:80/live/new4tec/new4tec/61943.ts
+#EXTINF:-1,GR: Ept 2
+http://54.37.188.76:80/live/new4tec/new4tec/61942.ts
+#EXTINF:-1,GR: ERT 1
+http://54.37.188.76:80/live/new4tec/new4tec/61941.ts
+#EXTINF:-1,GR: Ert HD
+http://54.37.188.76:80/live/new4tec/new4tec/61940.ts
+#EXTINF:-1,GR: ERT2
+http://54.37.188.76:80/live/new4tec/new4tec/61939.ts
+#EXTINF:-1,GR: Euronews
+http://54.37.188.76:80/live/new4tec/new4tec/61938.ts
+#EXTINF:-1,GR: Eurosport 1
+http://54.37.188.76:80/live/new4tec/new4tec/61937.ts
+#EXTINF:-1,GR: Eurosport 2
+http://54.37.188.76:80/live/new4tec/new4tec/61936.ts
+#EXTINF:-1,GR: EXTRA
+http://54.37.188.76:80/live/new4tec/new4tec/61935.ts
+#EXTINF:-1,GR: Extra Channel
+http://54.37.188.76:80/live/new4tec/new4tec/61934.ts
+#EXTINF:-1,GR: High TV
+http://54.37.188.76:80/live/new4tec/new4tec/61933.ts
+#EXTINF:-1,GR: Hpeiros TV1
+http://54.37.188.76:80/live/new4tec/new4tec/61932.ts
+#EXTINF:-1,GR: JAYZEE
+http://54.37.188.76:80/live/new4tec/new4tec/61931.ts
+#EXTINF:-1,GR: Kontra Channel
+http://54.37.188.76:80/live/new4tec/new4tec/61930.ts
+#EXTINF:-1,GR: KONTRA TV
+http://54.37.188.76:80/live/new4tec/new4tec/61929.ts
+#EXTINF:-1,GR: Krhth TV
+http://54.37.188.76:80/live/new4tec/new4tec/61928.ts
+#EXTINF:-1,GR: KRITI TV
+http://54.37.188.76:80/live/new4tec/new4tec/61927.ts
+#EXTINF:-1,GR: Lepanto
+http://54.37.188.76:80/live/new4tec/new4tec/61926.ts
+#EXTINF:-1,GR: Mad TV
+http://54.37.188.76:80/live/new4tec/new4tec/61925.ts
+#EXTINF:-1,GR: Makedonia
+http://54.37.188.76:80/live/new4tec/new4tec/61924.ts
+#EXTINF:-1,GR: Makedonia TV
+http://54.37.188.76:80/live/new4tec/new4tec/61923.ts
+#EXTINF:-1,GR: Makedonia TV Delay
+http://54.37.188.76:80/live/new4tec/new4tec/61922.ts
+#EXTINF:-1,GR: Makeleio Web Tv
+http://54.37.188.76:80/live/new4tec/new4tec/61921.ts
+#EXTINF:-1,GR: Mega
+http://54.37.188.76:80/live/new4tec/new4tec/61920.ts
+#EXTINF:-1,GR: MESSINIA TV
+http://54.37.188.76:80/live/new4tec/new4tec/61919.ts
+#EXTINF:-1,GR: MTVeece
+http://54.37.188.76:80/live/new4tec/new4tec/61918.ts
+#EXTINF:-1,GR: Nat Geo
+http://54.37.188.76:80/live/new4tec/new4tec/61917.ts
+#EXTINF:-1,GR: NEA
+http://54.37.188.76:80/live/new4tec/new4tec/61916.ts
+#EXTINF:-1,GR: Nea Tv
+http://54.37.188.76:80/live/new4tec/new4tec/61915.ts
+#EXTINF:-1,GR: New TV
+http://54.37.188.76:80/live/new4tec/new4tec/61914.ts
+#EXTINF:-1,GR: Nickelodeon
+http://54.37.188.76:80/live/new4tec/new4tec/61913.ts
+#EXTINF:-1,GR: NOVA
+http://54.37.188.76:80/live/new4tec/new4tec/61912.ts
+#EXTINF:-1,GR: OMEGA
+http://54.37.188.76:80/live/new4tec/new4tec/61911.ts
+#EXTINF:-1,GR: Omega TV
+http://54.37.188.76:80/live/new4tec/new4tec/61910.ts
+#EXTINF:-1,GR: Rik
+http://54.37.188.76:80/live/new4tec/new4tec/61909.ts
+#EXTINF:-1,GR: SAMIAKI
+http://54.37.188.76:80/live/new4tec/new4tec/61908.ts
+#EXTINF:-1,GR: SBC
+http://54.37.188.76:80/live/new4tec/new4tec/61907.ts
+#EXTINF:-1,GR: Sigma
+http://54.37.188.76:80/live/new4tec/new4tec/61906.ts
+#EXTINF:-1,GR: Skai
+http://54.37.188.76:80/live/new4tec/new4tec/61905.ts
+#EXTINF:-1,GR: Smile
+http://54.37.188.76:80/live/new4tec/new4tec/61904.ts
+#EXTINF:-1,GR: Star
+http://54.37.188.76:80/live/new4tec/new4tec/61903.ts
+#EXTINF:-1,GR: Star TV
+http://54.37.188.76:80/live/new4tec/new4tec/61902.ts
+#EXTINF:-1,GR: Start TV
+http://54.37.188.76:80/live/new4tec/new4tec/61901.ts
+#EXTINF:-1,GR: Thema TV
+http://54.37.188.76:80/live/new4tec/new4tec/61900.ts
+#EXTINF:-1,GR: Thraki TV
+http://54.37.188.76:80/live/new4tec/new4tec/61899.ts
+#EXTINF:-1,GR: TILESPORT
+http://54.37.188.76:80/live/new4tec/new4tec/61898.ts
+#EXTINF:-1,GR: TRT
+http://54.37.188.76:80/live/new4tec/new4tec/61897.ts
+#EXTINF:-1,GR: TV 1000
+http://54.37.188.76:80/live/new4tec/new4tec/61896.ts
+#EXTINF:-1,GR: TV Gold
+http://54.37.188.76:80/live/new4tec/new4tec/61895.ts
+#EXTINF:-1,GR: TV Mytilini
+http://54.37.188.76:80/live/new4tec/new4tec/61894.ts
+#EXTINF:-1,GR: TV1 Siros
+http://54.37.188.76:80/live/new4tec/new4tec/61893.ts
+#EXTINF:-1,GR: Tv100
+http://54.37.188.76:80/live/new4tec/new4tec/61892.ts
+#EXTINF:-1,GR: VOULI
+http://54.37.188.76:80/live/new4tec/new4tec/61891.ts
+#EXTINF:-1,GR: Vouli TV
+http://54.37.188.76:80/live/new4tec/new4tec/61890.ts
+#EXTINF:-1,GR: ZOUGL@
+http://54.37.188.76:80/live/new4tec/new4tec/61889.ts
